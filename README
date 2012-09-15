@@ -1,0 +1,3 @@
+# Java Abstract Renderer
+
+This project allows you to abstract the rendering of components, by adding a layer of abstraction above the default render components of Java (Graphics) and Android(Canvas)
